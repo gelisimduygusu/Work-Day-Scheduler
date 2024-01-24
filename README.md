@@ -31,4 +31,6 @@ Entered events are saved to local storage for persistence between page refreshes
 
 # URL
 https://gelisimduygusu.github.io/Work-Day-Scheduler/
+
+
 <img width="952" alt="Screenshot 2024-01-24 at 17 36 43" src="https://github.com/gelisimduygusu/Work-Day-Scheduler/assets/151784243/12de0372-e077-451e-88b0-598f887273d1">
