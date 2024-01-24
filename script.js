@@ -5,7 +5,7 @@ $(document).ready(function () {
     function createTimeBlocks() {
     var currentHour = dayjs().hour();
 
-    for (var hour = 9; hour <= 22; hour++) {
+    for (var hour = 9; hour <= 17; hour++) {
         var $row = $("<div>").addClass("row time-block");
         var $hourCol = $("<div>").addClass("col-1 hour").text(formatHour(hour));
         var $textCol = $("<textarea>").addClass("col description").attr("data-hour", hour);
